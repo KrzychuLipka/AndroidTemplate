@@ -1,4 +1,4 @@
-package pl.pw.testapp.data.ui.theme
+package pl.pw.testapp.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

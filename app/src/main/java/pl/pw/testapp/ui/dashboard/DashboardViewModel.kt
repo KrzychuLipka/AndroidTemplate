@@ -1,4 +1,4 @@
-package pl.pw.testapp.data.ui.dashboard
+package pl.pw.testapp.ui.dashboard
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

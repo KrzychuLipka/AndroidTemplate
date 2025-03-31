@@ -1,11 +1,11 @@
-package pl.pw.testapp.data.ui.dashboard
+package pl.pw.testapp.ui.dashboard
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import dagger.hilt.android.AndroidEntryPoint
-import pl.pw.testapp.data.ui.theme.TestAppTheme
+import pl.pw.testapp.ui.theme.TestAppTheme
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {

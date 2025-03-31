@@ -1,4 +1,4 @@
-package pl.pw.testapp.data.ui.theme
+package pl.pw.testapp.ui.theme
 
 import android.app.Activity
 import android.os.Build
